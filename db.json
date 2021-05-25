@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "friends": [
+    { "id": 1, "name": "Prakreeti" },
+    { "id": 2, "name": "Shreya" },
+    { "id": 3, "name": "Shaswat" }
+  ]
 }
