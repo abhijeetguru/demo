@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "friends": [
-    { "id": 1, "title": "Prakreeti" },
-    { "id": 2, "title": "Shreya" },
-    { "id": 3, "title": "Shaswat" }
+    { "id": 1, "name": "Prakreeti" },
+    { "id": 2, "name": "Shreya" },
+    { "id": 3, "name": "Shaswat" }
   ]
 }
